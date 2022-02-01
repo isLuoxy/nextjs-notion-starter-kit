@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '爱 「世界与和平」',
   domain: 'https://www.notion.so/4ed30d0f3f2d4ff888e675cd6bc5cf22',
-  author: 'Solomon Luo',
+  author: 'Solomon',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'isluoxy',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
