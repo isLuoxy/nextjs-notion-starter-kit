@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '爱 「世界与和平」',
   domain: 'https://www.notion.so/4ed30d0f3f2d4ff888e675cd6bc5cf22',
-  author: 'Solomon',
+  author: 'solomon',
 
   // open graph metadata (optional)
   description: 'Example site description',
